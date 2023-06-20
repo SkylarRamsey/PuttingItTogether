@@ -1,0 +1,10 @@
+AUTOMATION COMMANDS
+
+Within source directory of maven project
+mvn package
+
+Run jar file built from package
+
+java -cp target/puttingItTogether-1.0-SNAPSHOT.jar com.puttingItTogether.app.App
+
+May be different jar name, check in repo under target directory
