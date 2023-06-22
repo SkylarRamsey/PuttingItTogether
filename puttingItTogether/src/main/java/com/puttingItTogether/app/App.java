@@ -19,7 +19,6 @@ public class App
         System.out.println( "Your dog weighs " + AppDog.getWeight() + "lbs" );
         System.out.println( "Let's feed it!" );
         AppDog.eat();
-        System.out.println( "Your dog now weighs " + AppDog.getWeight() + "lbs" ); 
-      
+        System.out.println( "Your dog now weighs " + AppDog.getWeight() + "lbs" );
     }
 }
